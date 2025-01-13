@@ -1,6 +1,8 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
 
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://serena-xue.github.io/2025Spring-Telling-Stories-with-Data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
 Hi! I'm Qing Xue and you can call me Serena. I love playing with charts and colors.
