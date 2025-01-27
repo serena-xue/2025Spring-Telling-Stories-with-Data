@@ -18,7 +18,8 @@ All the things - obviously. Maybe I want to make a list of all the things.
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 - Week 1
-!(https://public.tableau.com/views/rankingofnewsmediabyconsumertrust_17380081651590/12?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ 
+![](https://public.tableau.com/views/rankingofnewsmediabyconsumertrust_17380081651590/12?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Week 2
 - Week 3
 - Final Project
