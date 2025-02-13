@@ -4,8 +4,7 @@
 
 ## Step one: the visualization
 
-The original data visualization is from: [](https://today.yougov.com/society/articles/35852-lions-and-tigers-and-bears-what-animal-would-win-f).
-A interesting YouGov survey studied which animals Americans think would win imagined battles, both among themselves and against unarmed humans. Elephants and rhinos were ranked highest in animal-versus-animal matchups. Americans are confident facing smaller animals, while lack confidence facing bigger ones. There are also some differences between genders: men are more likely to think they could defeat specific animals like wolves and kangaroos.
+The original data visualization is from: [Yougov](https://today.yougov.com/society/articles/35852-lions-and-tigers-and-bears-what-animal-would-win-f). A interesting YouGov survey studied which animals Americans think would win imagined battles, both among themselves and against unarmed humans. Elephants and rhinos were ranked highest in animal-versus-animal matchups. Americans are confident facing smaller animals, while lack confidence facing bigger ones. There are also some differences between genders: men are more likely to think they could defeat specific animals like wolves and kangaroos.
 
 ## Step two: the critique
 The original visualization (viz) consists of 3 parts: animals vs. animals, animals vs. human beings and gender difference. 
