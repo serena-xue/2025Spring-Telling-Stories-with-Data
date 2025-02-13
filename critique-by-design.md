@@ -60,8 +60,7 @@ Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enoug
 
 ## Step five: build the solution
 
-<div style="max-width: 100%; margin: 0 auto;">
-<div class="tableauPlaceholder" id="viz1739415378212" style="position: relative;">
+<div class="tableauPlaceholder" id="viz1739415984441" style="position: relative;">
     <noscript>
         <a href="#"><img alt="Human vs Animal Fight " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight&#47;1_rss.png" style="border: none;" /></a>
     </noscript>
@@ -73,9 +72,8 @@ Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enoug
         <param name="filter" value="publish=yes" />
     </object>
 </div>
-</div>
 <script type="text/javascript">
-    var divElement = document.getElementById("viz1739415378212");
+    var divElement = document.getElementById("viz1739415984441");
     var vizElement = divElement.getElementsByTagName("object")[0];
     if (divElement.offsetWidth > 800) {
         vizElement.style.width = "800px";
@@ -91,6 +89,7 @@ Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enoug
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 
 The audience are netizens who have nothing better to do than to brush up on their online posts and have somewhat interest in social science and animals. I focus on gender perspective difference on "what animals can I beat". Bars with high difference (>10%) are highlighted. I intended to add some photos or icons, but the graph seems like not suitable for them. To be more impressive and more close to topic, I pick Impact as title font and Rotonto as body font.
