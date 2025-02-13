@@ -22,6 +22,15 @@ The second viz is good, with suitable layouts and title with conclusion, even th
     <iframe title="What animal could you beat in a fight? Compared to women, men feel most able to take on medium-sized dogs and geese" aria-label="Range Plot" id="datawrapper-chart-wadD1" src="https://datawrapper.dwcdn.net/wadD1/3/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 596px;" height="457"></iframe>
 </div>
 
+<div data-immersive-translate-walked="cc97b7c2-6dbf-4018-b143-f106b5f85045">
+    <iframe title="What animal could you beat in a fight? Compared to women, men feel most able to take on medium-sized dogs and geese" aria-label="Range Plot" id="datawrapper-chart-wadD1" src="https://datawrapper.dwcdn.net/wadD1/3/" scrolling="no" frameborder="0" style="border: none; width: 100%; display: block;"></iframe>
+</div>
+<script>
+    // Datawrapper 提供的响应式脚本 (如果需要)
+    !function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+
 For the third viz, a dumbbell chart is for gender difference. Good for showing difference, but it would be more intuitive for the color saturation to change based on the degree of difference.
 
 ## Step three: Sketch a solution
@@ -56,6 +65,7 @@ Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enoug
 
 ## Step five: build the solution
 
+<div style="max-width: 800px; margin: 0 auto;">
 <div class="tableauPlaceholder" id="viz1739415378212" style="position: relative;">
     <noscript>
         <a href="#"><img alt="Human vs Animal Fight " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight&#47;1_rss.png" style="border: none;" /></a>
@@ -67,6 +77,7 @@ Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enoug
         <param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /><param name="language" value="zh-CN" />
         <param name="filter" value="publish=yes" />
     </object>
+</div>
 </div>
 <script type="text/javascript">
     var divElement = document.getElementById("viz1739415378212");
