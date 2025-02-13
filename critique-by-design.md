@@ -22,7 +22,11 @@ For the first viz, it's quite creative and impressive to put photos of considere
 
 The second viz is good, with suitable layouts and title with conclusion, even though the photos seem meaningless. Better to remove the photos and highlight interesting animals discussed below (such as grizzly bear and lions).
 
-![](https://datawrapper.dwcdn.net/wadD1/3/)
+<div>
+    <iframe
+            src="https://datawrapper.dwcdn.net/wadD1/3/"
+            style="min-width: 100%;"></iframe>
+</div>
 
 For the third viz, a dumbbell chart is for gender difference. Good for showing difference, but it would be more intuitive for the color saturation to change based on the degree of difference.
 
@@ -87,6 +91,38 @@ Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enoug
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+<div class="tableauPlaceholder" id="viz1739405504297" style="position: relative; width: 100%; padding-bottom: 56.25%;">  <!-- 16:9 aspect ratio -->
+    <noscript>
+        <a href="#"><img alt="Human vs Animal Fight " src="https://public.tableau.com/static/images/Hu/HumanvsAnimalFight_17394051436560/HumanvsAnimalFight/1_rss.png" style="border: none;" /></a>
+    </noscript>
+    <object class="tableauViz" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" value="https://public.tableau.com/static/images/Hu/HumanvsAnimalFight_17394051436560/HumanvsAnimalFight/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="zh-CN" />
+        <param name="filter" value="publish=yes" />
+        <param name='device' value='default' />  <!--  Add this line for responsiveness -->
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById("viz1739405504297");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    // Remove the original JavaScript size adjustments.  Tableau handles it.
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 The audience are netizens who have nothing better to do than to brush up on their online posts and have somewhat interest in social science and animals. I focus on gender perspective difference on "what animals can I beat". Bars with high difference (>10%) are highlighted. I intended to add some photos or icons, but the graph seems like not suitable for them. To be more impressive and more close to topic, I pick Impact as title font and Rotonto as body font.
 
