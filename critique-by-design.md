@@ -1,9 +1,5 @@
 | [home page]([https://cmustudent.github.io/tswd-portfolio-templates/](https://serena-xue.github.io/2025Spring-Telling-Stories-with-Data/)) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-
-
-
 # Title: Humans vs. Animals: Gender Differences
 
 ## Step one: the visualization
@@ -22,10 +18,8 @@ For the first viz, it's quite creative and impressive to put photos of considere
 
 The second viz is good, with suitable layouts and title with conclusion, even though the photos seem meaningless. Better to remove the photos and highlight interesting animals discussed below (such as grizzly bear and lions).
 
-<div>
-    <iframe
-            src="https://datawrapper.dwcdn.net/wadD1/3/"
-            style="min-width: 100%;"></iframe>
+<div data-immersive-translate-walked="cc97b7c2-6dbf-4018-b143-f106b5f85045">
+    <iframe title="What animal could you beat in a fight? Compared to women, men feel most able to take on medium-sized dogs and geese" aria-label="Range Plot" id="datawrapper-chart-wadD1" src="https://datawrapper.dwcdn.net/wadD1/3/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 596px;" height="457"></iframe>
 </div>
 
 For the third viz, a dumbbell chart is for gender difference. Good for showing difference, but it would be more intuitive for the color saturation to change based on the degree of difference.
@@ -62,7 +56,7 @@ Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enoug
 
 ## Step five: build the solution
 
-<div class="tableauPlaceholder" id="viz1739405504297" style="position: relative;">
+<div class="tableauPlaceholder" id="viz1739415378212" style="position: relative;">
     <noscript>
         <a href="#"><img alt="Human vs Animal Fight " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight&#47;1_rss.png" style="border: none;" /></a>
     </noscript>
@@ -75,49 +69,18 @@ Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enoug
     </object>
 </div>
 <script type="text/javascript">
-    var divElement = document.getElementById("viz1739405504297");
+    var divElement = document.getElementById("viz1739415378212");
     var vizElement = divElement.getElementsByTagName("object")[0];
     if (divElement.offsetWidth > 800) {
-        vizElement.style.width = "1366px";
-        vizElement.style.height = "795px";
+        vizElement.style.width = "800px";
+        vizElement.style.height = "627px";
     } else if (divElement.offsetWidth > 500) {
-        vizElement.style.width = "1366px";
-        vizElement.style.height = "795px";
+        vizElement.style.width = "800px";
+        vizElement.style.height = "627px";
     } else {
         vizElement.style.width = "100%";
         vizElement.style.height = "1027px";
     }
-    var scriptElement = document.createElement("script");
-    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
-
-<div class="tableauPlaceholder" id="viz1739405504297" style="position: relative; width: 100%; padding-bottom: 56.25%;">  <!-- 16:9 aspect ratio -->
-    <noscript>
-        <a href="#"><img alt="Human vs Animal Fight " src="https://public.tableau.com/static/images/Hu/HumanvsAnimalFight_17394051436560/HumanvsAnimalFight/1_rss.png" style="border: none;" /></a>
-    </noscript>
-    <object class="tableauViz" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-        <param name="embed_code_version" value="3" />
-        <param name="site_root" value="" />
-        <param name="name" value="HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight" />
-        <param name="tabs" value="no" />
-        <param name="toolbar" value="yes" />
-        <param name="static_image" value="https://public.tableau.com/static/images/Hu/HumanvsAnimalFight_17394051436560/HumanvsAnimalFight/1.png" />
-        <param name="animate_transition" value="yes" />
-        <param name="display_static_image" value="yes" />
-        <param name="display_spinner" value="yes" />
-        <param name="display_overlay" value="yes" />
-        <param name="display_count" value="yes" />
-        <param name="language" value="zh-CN" />
-        <param name="filter" value="publish=yes" />
-        <param name='device' value='default' />  <!--  Add this line for responsiveness -->
-    </object>
-</div>
-<script type="text/javascript">
-    var divElement = document.getElementById("viz1739405504297");
-    var vizElement = divElement.getElementsByTagName("object")[0];
-    // Remove the original JavaScript size adjustments.  Tableau handles it.
     var scriptElement = document.createElement("script");
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
