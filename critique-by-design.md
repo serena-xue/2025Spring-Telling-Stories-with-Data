@@ -1,59 +1,99 @@
 | [home page]([https://cmustudent.github.io/tswd-portfolio-templates/](https://serena-xue.github.io/2025Spring-Telling-Stories-with-Data/)) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+
+
+# Title: Humans vs. Animals: Gender Differences
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+The original data visualization is from: [](https://today.yougov.com/society/articles/35852-lions-and-tigers-and-bears-what-animal-would-win-f).
+A interesting YouGov survey studied which animals Americans think would win imagined battles, both among themselves and against unarmed humans. Elephants and rhinos were ranked highest in animal-versus-animal matchups. Americans are confident facing smaller animals, while lack confidence facing bigger ones. There are also some differences between genders: men are more likely to think they could defeat specific animals like wolves and kangaroos.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+The original visualization (viz) consists of 3 parts: animals vs. animals, animals vs. human beings and gender difference. 
+
+![](https://ygo-assets-websites-editorial-emea.yougov.net/images/Animal20fights20chart20120v2.format-webp.webp)
+
+For the first viz, it's quite creative and impressive to put photos of considered to be the most strongest animals on the top. These 5 photos seem to be the top 5 strongest, while not. Use a podium to indicate top 3 considered to be strongest and highlight other interesting animals in the list may be better. This causes confusion. 
+
+![](https://ygo-assets-websites-editorial-emea.yougov.net/images/Animal20fights202-01.format-webp.webp)
+
+The second viz is good, with suitable layouts and title with conclusion, even though the photos seem meaningless. Better to remove the photos and highlight interesting animals discussed below (such as grizzly bear and lions).
+
+![](https://datawrapper.dwcdn.net/wadD1/3/)
+
+For the third viz, a dumbbell chart is for gender difference. Good for showing difference, but it would be more intuitive for the color saturation to change based on the degree of difference.
 
 ## Step three: Sketch a solution
 
+The audience are netizens who have nothing better to do than to brush up on their online posts and have somewhat interest in social science and animals. I consider a dashboard to represent the 3 viz. Left part is for animal vs. animal and right part is for animal vs. human being.
+
+First is on the left, with a title "Which animals are the most UNBEATABLE in a fight". I use a podium to showcase the top 3 strongest animals: with photos on it, no names on the podium, rating added as badges. Below that, the list of other animals remain the same, but with font size in descending order of support. The theme color is red and yellow.
+
+The second viz is on the top right, with a title "Which animals could you beat in a fight". The bar chart layout remains the same, descending order of rating. Adding photos or icons of animals to the top of bars to make the picture more impressive. The theme color is green.
+
+The third vis is on the bottom right, with a title same as original one: "Compared to women, men feel most able to take on medium-sized dogs and geese". All elements are the same except applying high-matured colors to emphasized animals.
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Interviewees: MAM, with 2-year SDE experience, MISM
 
-Questions to ask (modify these for your own interviews): 
+*We used a more open-ended discussion where everyone's answers complemented each other, so there was no clear distinction.*
 
 - Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
+  - What animals are strongest, against animals and against human beings. Perceived differences between men and women.
 - Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
+  - So many photos, dazzled.
+  - A podium for the top 3 strongest animals is a great idea.
 - Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+  - Dumbbell chart is not clear enough: labels are far from values, better to put them more closely. A stacked bar plot or a diverging bar plot are more helpful.
+  - Topics are not focused. Better to focus on animals vs. animals and animals vs. human beings. The other topic, difference between men's feeling and women's feeling, is less attractive. Two tabs for contrast and add titles for them are more clear to understand.
+  - Better not to replace names of anminals by photos.
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Focus on one topic. Do not use so many photos. Dumbbell chart is not clear enough, better to use a diverging bar plot.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<div class="tableauPlaceholder" id="viz1739405504297" style="position: relative;">
+    <noscript>
+        <a href="#"><img alt="Human vs Animal Fight " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight&#47;1_rss.png" style="border: none;" /></a>
+    </noscript>
+    <object class="tableauViz" style="display: none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="site_root" value="" />
+        <param name="name" value="HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight" /><param name="tabs" value="no" /><param name="toolbar" value="yes" />
+        <param name="static_image" value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight&#47;1.png" /> <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /><param name="language" value="zh-CN" />
+        <param name="filter" value="publish=yes" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById("viz1739405504297");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    if (divElement.offsetWidth > 800) {
+        vizElement.style.width = "1366px";
+        vizElement.style.height = "795px";
+    } else if (divElement.offsetWidth > 500) {
+        vizElement.style.width = "1366px";
+        vizElement.style.height = "795px";
+    } else {
+        vizElement.style.width = "100%";
+        vizElement.style.height = "1027px";
+    }
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+The audience are netizens who have nothing better to do than to brush up on their online posts and have somewhat interest in social science and animals. I focus on gender perspective difference on "what animals can I beat". Bars with high difference (>10%) are highlighted. I intended to add some photos or icons, but the graph seems like not suitable for them. To be more impressive and more close to topic, I pick Impact as title font and Rotonto as body font.
+
+A diverging bar plot is not supported in basic funcions of Tableau. I tried for a long time on how to acchive it with two bar plots and make y-axis at the middle. Finally, I managed to achieve it with a dashboard.
 
 ## References
-_List any references you used here._
+[Rumble in the jungle: what animals would win in a fight?](https://today.yougov.com/society/articles/35852-lions-and-tigers-and-bears-what-animal-would-win-f)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+Use DeepSeek to redesign the title: I gave AI: WHAT ANIMALS CAN YOU BEAT? GAP BETWEEN MEN AND WOMEN, ask AI to come up with more brief and interesting titles. AI recommended some and I picked "Humans vs. Animals: Gender Differences".
