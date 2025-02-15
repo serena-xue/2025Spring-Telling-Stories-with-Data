@@ -39,11 +39,11 @@ Description:
 
 Cited from [here](https://www.kaggle.com/datasets/nypl/whats-on-the-menu): "The New York Public Library is digitizing and transcribing its collection of historical menus. The collection includes about 45,000 menus from the 1840s to the present, and the goal of the digitization project is to transcribe each page of each menu, creating an enormous database of dishes, prices, locations, and so on. As of early November, 2016, the transcribed database contains 1,332,279 dishes from 17,545 menus."
 
-Data source page: [](https://www.nypl.org/research/support/whats-on-the-menu)
+Data source page: [https://www.nypl.org/research/support/whats-on-the-menu](https://www.nypl.org/research/support/whats-on-the-menu)
 
-Data description: [](http://curatingmenus.org/data_dictionary/)
+Data description: [http://curatingmenus.org/data_dictionary/](http://curatingmenus.org/data_dictionary/)
 
-Download dataset: [](https://www.kaggle.com/datasets/nypl/whats-on-the-menu)
+Download dataset: [https://www.kaggle.com/datasets/nypl/whats-on-the-menu](https://www.kaggle.com/datasets/nypl/whats-on-the-menu)
 
 The dataset contains 4 tables: Menu, Dish, MenuPage, MenuItem. This project use Menu, MenuItem and Dish. Needed fields are:
 - From table Dish: 
@@ -63,7 +63,7 @@ The dataset contains 4 tables: Menu, Dish, MenuPage, MenuItem. This project use 
 Use Python to detect foreign words and adjectives in dish names with lingua and nltk. Use Tableau to draw plots.
 
 ## References
-https://www.kaggle.com/datasets/nypl/whats-on-the-menu
+[https://www.kaggle.com/datasets/nypl/whats-on-the-menu](https://www.kaggle.com/datasets/nypl/whats-on-the-menu)
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
