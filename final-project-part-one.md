@@ -33,7 +33,7 @@ Next, find if the two findings work for all day, from breakfast to dinner. Use t
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-<img src="Initial Sketches.jpeg" width="100px">
+<img src="Initial Sketches.jpeg" width="1000px">
 
 # Data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
