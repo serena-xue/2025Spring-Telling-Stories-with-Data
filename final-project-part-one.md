@@ -1,9 +1,12 @@
 | [home page](https://serena-xue.github.io/2025Spring-Telling-Stories-with-Data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
+# Words on the Menu: How Foriegn and Desriptive Names have been Influencing Dish Prices since 1840
 
-This project explores if foriegn and descriptive names make dishes more expensive, and if this has been true since 1840. In addition, I checks if theses tricks work all day, from breakfast to dinner. Finally, give some conclusions.
+# Outline
+
+## Summary
+
+The audience is restaurant industry professionals, such as chefs, menu designers, restaurateurs, and pricing strategists, indicating effective pricing strategies. This project explores if foriegn and descriptive names make dishes more expensive, and if this has been true since 1840. In addition, I checks if theses tricks work all day, from breakfast to dinner. Finally, give some conclusions.
 
 The story starts with a common sense: dish with a fancier name is more expensive. An example of "Fresh Salad" with a price tag and "Farm-To-Table Salad" with a higher price tag is showed. Then, ask a question: does that work since 1840?
 
@@ -13,7 +16,7 @@ Two factors to decide "fancy" are proposed. First is foreign words in dish names
 
 Next, find if the two findings work for all day, from breakfast to dinner. Use two Faceted Line Charts to show that. Finally, show findings as conclusion.
 
-> Project Structure 
+## Project Structure 
 
 - Set the Stage
  - Common sense: dish with a fancier name is more expensive. Does that work since 1840?
@@ -30,9 +33,9 @@ Next, find if the two findings work for all day, from breakfast to dinner. Use t
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-![](Initial Sketches.jpeg)
+<img src="Initial Sketches.jpeg" width="1000px">
 
-# The data
+# Data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 Description:
