@@ -57,7 +57,9 @@ https://sixminutes.dlugan.com/illusion-of-transparency/
 
 https://doi.org/10.1016/j.xjmad.2025.100105
 
-https://doi.org/10.1177/0956797618783714https://doi.org/10.1016/S0022-1031(03)00056-8
+https://doi.org/10.1177/0956797618783714
+
+https://doi.org/10.1016/S0022-1031(03)00056-8
 
 https://doi.org/10.1016/j.cpr.2008.01.002
 
