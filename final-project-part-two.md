@@ -68,5 +68,3 @@ I use AI (ChatGPT, Gemini, DeepSeek) for this work:
 1. Generate anxious thoughts (“Did I complain too much?”, etc.).
 2. Instructions on how to use Tableau and write formulas for calculated fields.
 3. Generate image on page2 (two stick figures are talking, smiling).
-4. Beautify the expression. I give AI draft in simple English and ask AI to turn into friendly and flow style.
-5. List resources for anxiety help.
