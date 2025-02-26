@@ -27,7 +27,6 @@ Text here!
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
 
-*Clarification of the AI acknowledgement in Part II "beautify words": For some sentences, I find it hard to write in English directly, then I will write in Chinese first. If I think it is not logic enough or is too wordy, I use AI to rewrite the sentence. Then I modify the AI output including the misinterpretation and misuse of words (this step can be done better in my native language). Next, translate into English with DeepL (no AI used in this step). Finally, modify the impropriate places to make it fit the overall tone and flow better. Therefore, no direct copy from GenAI.*
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
