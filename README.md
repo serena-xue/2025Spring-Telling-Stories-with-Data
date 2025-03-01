@@ -123,20 +123,6 @@ This is my public portfolio for Telling Stories with Data at CMU.
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-
-## Final project
-
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
-
 ## References
 ### TSWD-portfolio-templates
 These portfolio templates are for setting up your Telling Stories with Data site.
