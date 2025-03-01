@@ -69,7 +69,7 @@ Savitsky, Kenneth, and Thomas Gilovich. “The Illusion of Transparency and the 
 
 Miller, Dale T., and Cathy McFarland. “When Social Comparison Goes Awry: The Case of Pluralistic Ignorance.” In Routledge eBooks, 287–313, 2024. https://doi.org/10.4324/9781003469490-14.
 
-NHS inform. “Social Anxiety Self-help Guide | NHS Inform,” May 27, 2021. https://www.nhsinform.scot/illnesses-and-conditions/mental-health/mental-health-self-help-guides/social-anxiety-self-help-guide/.
+NHS inform. “Social Anxiety Self-help Guide \| NHS Inform,” May 27, 2021. https://www.nhsinform.scot/illnesses-and-conditions/mental-health/mental-health-self-help-guides/social-anxiety-self-help-guide/.
 
 ## AI acknowledgements
 I use AI (ChatGPT, Gemini, DeepSeek) for this work and there is no copy from AI. AI usage includes:
