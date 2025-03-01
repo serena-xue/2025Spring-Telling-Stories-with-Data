@@ -69,4 +69,4 @@ Use Python to detect foreign words and adjectives in dish names with lingua and 
 [https://www.kaggle.com/datasets/nypl/whats-on-the-menu](https://www.kaggle.com/datasets/nypl/whats-on-the-menu)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I use AI to brainstorm ideas.
