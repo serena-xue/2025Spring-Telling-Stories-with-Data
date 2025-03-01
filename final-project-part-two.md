@@ -3,7 +3,7 @@
 # Wireframes / storyboards
 Story published on Shorthan: [https://carnegiemellon.shorthandstories.com/people-like-you-more-than-you-think-another-way-to-alleviate-social-anxiety/index.html](https://carnegiemellon.shorthandstories.com/people-like-you-more-than-you-think-another-way-to-alleviate-social-anxiety/index.html)
 
-(I change the topic from Part I due to some inevitable problems.)
+(Topic is changed from Part I.)
 
 # User research 
 
