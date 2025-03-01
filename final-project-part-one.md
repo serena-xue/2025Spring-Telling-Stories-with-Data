@@ -1,4 +1,4 @@
-| [home page](https://serena-xue.github.io/2025Spring-Telling-Stories-with-Data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://serena-xue.github.io/2025Spring-Telling-Stories-with-Data/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Words on the Menu: How Foriegn and Desriptive Names have been Influencing Dish Prices since 1840
 
