@@ -1,7 +1,7 @@
 | [home page](https://serena-xue.github.io/2025Spring-Telling-Stories-with-Data/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-Story published on Shorthan: [https://carnegiemellon.shorthandstories.com/people-like-you-more-than-you-think-another-way-to-alleviate-social-anxiety/index.html](https://carnegiemellon.shorthandstories.com/people-like-you-more-than-you-think-another-way-to-alleviate-social-anxiety/index.html)
+Story published on Shorthand: [https://carnegiemellon.shorthandstories.com/people-like-you-more-than-you-think-another-way-to-alleviate-social-anxiety/index.html](https://carnegiemellon.shorthandstories.com/people-like-you-more-than-you-think-another-way-to-alleviate-social-anxiety/index.html)
 
 (Topic is changed from Part I.)
 
