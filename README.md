@@ -15,121 +15,131 @@ All the things - obviously. Maybe I want to make a list of all the things.
 - With help of visualization, how to make a presentation easier to understand and more impressive
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU.
 
-- Week 1
- 
-<div class='tableauPlaceholder' id='viz1738008390384' style='position: relative'>
-    <noscript><a href='#'><img alt='工作表 1 (2) '
-                               src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ra&#47;rankingofnewsmediabyconsumertrust_17380081651590&#47;12&#47;1_rss.png'
-                               style='border: none'/></a></noscript>
-    <object class='tableauViz' style='display:none;'>
-        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
-        <param name='embed_code_version' value='3'/>
-        <param name='site_root' value=''/>
-        <param name='name' value='rankingofnewsmediabyconsumertrust_17380081651590&#47;12'/>
-        <param name='tabs' value='no'/>
-        <param name='toolbar' value='yes'/>
-        <param name='static_image'
-               value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ra&#47;rankingofnewsmediabyconsumertrust_17380081651590&#47;12&#47;1.png'/>
-        <param name='animate_transition' value='yes'/>
-        <param name='display_static_image' value='yes'/>
-        <param name='display_spinner' value='yes'/>
-        <param name='display_overlay' value='yes'/>
-        <param name='display_count' value='yes'/>
-        <param name='language' value='zh-CN'/>
-        <param name='filter' value='publish=yes'/>
+- Top 15 Countries with Most General Government Debt
+
+<div class="tableauPlaceholder" id="viz1740806899433" style="position: relative;">
+    <noscript>
+        <a href="#"><img alt="Top 15 Countries with Most General Government Debt - 2014 " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;1_&#47;1_17380263079630&#47;Sheet4&#47;1_rss.png" style="border: none;" /></a>
+    </noscript>
+    <object class="tableauViz" style="display: none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="site_root" value="" /><param name="name" value="1_17380263079630&#47;Sheet4" />
+        <param name="tabs" value="no" /><param name="toolbar" value="yes" /><param name="static_image" value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;1_&#47;1_17380263079630&#47;Sheet4&#47;1.png" />
+        <param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" />
+        <param name="language" value="zh-CN" />
     </object>
 </div>
-<script type='text/javascript'>
-    var divElement = document.getElementById('viz1738008390384');
-    var vizElement = divElement.getElementsByTagName('object')[0];
-    vizElement.style.width = '100%';
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+<script type="text/javascript">
+    var divElement = document.getElementById("viz1740806899433");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    vizElement.style.width = "100%";
+    vizElement.style.height = divElement.offsetWidth * 0.75 + "px";
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-- Week 2
-- Week 3
-- Final Project
+- Human vs Animal Fight
+
+<div class="tableauPlaceholder" id="viz1740806927825" style="position: relative;">
+    <noscript>
+        <a href="#"><img alt="Human vs Animal Fight " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight&#47;1_rss.png" style="border: none;" /></a>
+    </noscript>
+    <object class="tableauViz" style="display: none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="site_root" value="" />
+        <param name="name" value="HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight" /><param name="tabs" value="no" /><param name="toolbar" value="yes" />
+        <param name="static_image" value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hu&#47;HumanvsAnimalFight_17394051436560&#47;HumanvsAnimalFight&#47;1.png" /> <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /><param name="language" value="zh-CN" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById("viz1740806927825");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    if (divElement.offsetWidth > 800) {
+        vizElement.style.width = "800px";
+        vizElement.style.height = "627px";
+    } else if (divElement.offsetWidth > 500) {
+        vizElement.style.width = "800px";
+        vizElement.style.height = "627px";
+    } else {
+        vizElement.style.width = "100%";
+        vizElement.style.height = "1027px";
+    }
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+- Rank of News Media by Consumer
+
+<div class="tableauPlaceholder" id="viz1740807116975" style="position: relative;">
+    <noscript>
+        <a href="#"><img alt="Rank of News Media by Consumer " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ra&#47;rankingofnewsmediabyconsumertrust_17380081651590&#47;12&#47;1_rss.png" style="border: none;" /></a>
+    </noscript>
+    <object class="tableauViz" style="display: none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="site_root" value="" />
+        <param name="name" value="rankingofnewsmediabyconsumertrust_17380081651590&#47;12" /><param name="tabs" value="no" /><param name="toolbar" value="yes" />
+        <param name="static_image" value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ra&#47;rankingofnewsmediabyconsumertrust_17380081651590&#47;12&#47;1.png" /> <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /><param name="language" value="zh-CN" />
+        <param name="filter" value="publish=yes" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById("viz1740807116975");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    vizElement.style.width = "100%";
+    vizElement.style.height = divElement.offsetWidth * 0.75 + "px";
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+- Liking Gaps persist in conversations of varying lengths.
+
+<div class="tableauPlaceholder" id="viz1740807209798" style="position: relative;">
+    <noscript>
+        <a href="#"><img alt="length_ " src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PeopleLikeYouMoreThanYouThink-AnotherWaytoAlleviateSocialAnxiety&#47;length_&#47;1_rss.png" style="border: none;" /></a>
+    </noscript>
+    <object class="tableauViz" style="display: none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="site_root" value="" />
+        <param name="name" value="PeopleLikeYouMoreThanYouThink-AnotherWaytoAlleviateSocialAnxiety&#47;length_" /><param name="tabs" value="no" /><param name="toolbar" value="yes" />
+        <param name="static_image" value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PeopleLikeYouMoreThanYouThink-AnotherWaytoAlleviateSocialAnxiety&#47;length_&#47;1.png" />
+        <param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" />
+        <param name="language" value="zh-CN" /><param name="filter" value="publish=yes" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById("viz1740807209798");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    if (divElement.offsetWidth > 800) {
+        vizElement.style.width = "800px";
+        vizElement.style.height = "627px";
+    } else if (divElement.offsetWidth > 500) {
+        vizElement.style.width = "800px";
+        vizElement.style.height = "627px";
+    } else {
+        vizElement.style.width = "100%";
+        vizElement.style.height = "727px";
+    }
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
-
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+[Part III](final-project-part-three)
 
 ## References
 ### TSWD-portfolio-templates
@@ -137,7 +147,3 @@ These portfolio templates are for setting up your Telling Stories with Data site
 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - Github repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
