@@ -47,7 +47,9 @@ References are listed on Shorthand story.
 
 ## AI acknowledgements
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+
 (During the overall work in this project)I use AI (ChatGPT, Gemini, DeepSeek) for this work and there is no copy from AI. AI usage includes:
+
 1. Brainstorm ideas.
 2. Ask for instructions on how to use Tableau and write formulas for calculated fields.
 3. Generate an image on page2 "Have you ever..." (prompt: a minimalist drawing of two stick figures talking, laughing).
